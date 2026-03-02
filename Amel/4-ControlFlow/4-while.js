@@ -3,8 +3,8 @@ for (let i = 0; i <= 5; i++) {
 }
 
 let i = 0;
-while (i <= 7) {
-    if (i <= 7) {
+while (i <= 9) {
+    if (i <= 9) {
         if (i % 2 !== 0) console.log(i);
         i++;
     }
