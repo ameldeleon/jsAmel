@@ -15,4 +15,3 @@ console.log(firstName, lastName)
 //Can declare using comma (let firstName = 'Amel', lastName = "De Leon")
 //Industry standard nowadays is let firstName = 'Amel';
 //                              let lastName = 'De León';
-
