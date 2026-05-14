@@ -1,5 +1,18 @@
-const interestRate = 0.3;
-interestRate = 1;
-console.log(interestRate);
+let name = 'Amel';
+// console.log(name)
 
-//Constants (const) cannot be reassigned. Period.
+//Variables cannot be a reserved keyword
+//Name should be meaningful
+//Cannot start with a number
+//Cannot contain a space or hyphen (-)
+//Are case-sensitive
+
+let firstName = 'Amel';
+let lastName = 'De Leon';
+
+console.log(firstName, lastName)
+
+//Can declare using comma (let firstName = 'Amel', lastName = "De Leon")
+//Industry standard nowadays is let firstName = 'Amel';
+//                              let lastName = 'De León';
+
